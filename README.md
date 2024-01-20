@@ -6,9 +6,9 @@ Bienvenido a mi rincón especial en GitHub. 📊 Estadístico de profesión y me
 
 🎓 Estoy inmerso en mi Maestría en Estadística Aplicada y Ciencia de Datos en la Universidad el Bosque en Bogotá. Este viaje académico me ha brindado una perspectiva más profunda sobre el impacto que la estadística puede tener en la toma de decisiones en diversos contextos, y cómo puede ser una herramienta valiosa para desentrañar patrones y comprender fenómenos complejos.
 
-💡 La estadística, para mí, va más allá de ser un conjunto de fórmulas; es un conjunto de herramientas poderosa para revelar patrones, entender fenómenos complejos y respaldar la toma de decisiones basada en evidencia.
+💡 La estadística, para mí, va más allá de ser un conjunto de fórmulas; es un conjunto de herramientas poderosa para revelar patrones, entender fenómenos complejos y respaldar la toma de decisiones basada en evidencia**[Artículo](https://www.mdpi.com/2073-8994/13/7/1114)**.
 
-🌐 Mi enfoque en el área de la educación se centra en aplicar las habilidades estadísticas para analizar datos educativos, identificar tendencias significativas y ayudar a los tomadores de decisiones a entender el panorama completo para mejorar procesos y estrategias educativas. 
+🌐 Mi enfoque en el área de la educación se centra en aplicar las habilidades estadísticas para analizar datos educativos, identificar tendencias significativas y ayudar a los tomadores de decisiones a entender el panorama completo para mejorar procesos y estrategias educativas**[Proyecto Privado](Trabajo_Machine_MAlejandraMartinezManuelHernadez)**. 
 
 🏭 Además de mi dedicación al ámbito educativo, también tengo un profundo interés en el sector industrial. Creo firmemente en que las herramientas estadísticas y de ciencia de datos pueden ser catalizadoras para la mejora continua y la toma de decisiones efectivas en entornos industriales.
 
@@ -47,4 +47,4 @@ Bienvenido a mi rincón especial en GitHub. 📊 Estadístico de profesión y me
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
 
-¡Gracias por visitar mi espacio! Aquí exploraremos juntos las aplicaciones fascinantes de la estadística y la ciencia de datos en los sectores educativo e industrial. 📈🏭✨
+¡Gracias por visitar mi espacio! Aquí exploraremos juntos las aplicaciones fascinantes de la estadística y la ciencia de datos en los sectores educativo e industrial. 📈🏭✨📖📊
