@@ -4,11 +4,11 @@ Bienvenido a mi rincón especial en GitHub. 📊 Estadístico de profesión y me
 
 ## Sobre mí
 
-🎓 Estoy inmerso en mi Maestría en Estadística Aplicada y Ciencia de Datos en la Universidad el Bosque en Bogotá. Este viaje académico me ha brindado una perspectiva más profunda sobre el impacto que la estadística puede tener en la toma de decisiones en diversos contextos, y cómo puede ser una herramienta valiosa para desentrañar patrones y comprender fenómenos complejos.
+🎓 Estudio en el [Programa de Maestría en Estadística Aplicada y Ciencia de Datos](https://www.unbosque.edu.co/maestria/estadistica-aplicada-y-ciencia-de-datos). Este viaje académico me ha brindado una perspectiva más profunda sobre el impacto que la estadística puede tener en la toma de decisiones en diversos contextos, y cómo puede ser una herramienta valiosa para desentrañar patrones y comprender fenómenos complejos.
 
 💡 La estadística, para mí, va más allá de ser un conjunto de fórmulas; es un conjunto de herramientas poderosa para revelar patrones, entender fenómenos complejos y respaldar la toma de decisiones basada en evidencia**[Artículo](https://www.mdpi.com/2073-8994/13/7/1114)**.
 
-🌐 Mi enfoque en el área de la educación se centra en aplicar las habilidades estadísticas para analizar datos educativos, identificar tendencias significativas y ayudar a los tomadores de decisiones a entender el panorama completo para mejorar procesos y estrategias educativas**[Proyecto Privado](https://github.com/mamartinezg/Trabajo_Machine_MAlejandraMartinezManuelHernadez)**. 
+🌐 Mi enfoque en el área de la educación se centra en aplicar las habilidades estadísticas para analizar datos educativos, identificar tendencias significativas y ayudar a los tomadores de decisiones a entender el panorama completo para mejorar procesos y estrategias educativas. 
 
 🏭 Además de mi dedicación al ámbito educativo, también tengo un profundo interés en el sector industrial. Creo firmemente en que las herramientas estadísticas y de ciencia de datos pueden ser catalizadoras para la mejora continua y la toma de decisiones efectivas en entornos industriales.
 
@@ -30,6 +30,10 @@ Bienvenido a mi rincón especial en GitHub. 📊 Estadístico de profesión y me
 - **/scripts**: Contiene scripts y notebooks de Jupyter utilizados para realizar análisis y modelado.
 - **/resultados**: Almacena los resultados generados durante el análisis, como gráficos, tablas y modelos entrenados.
 - **/documentacion**: Contiene documentación adicional, explicaciones y análisis detallado.
+
+### Enlaces Adicionales
+- 📚 [Lo que el viento se llevó (Libro)](https://www.goodreads.com/book/show/2493.Gone_with_the_Wind)
+- 🎥 [La vida es bella (Película)](https://www.imdb.com/title/tt0118799/)
 
 ## Requisitos del Entorno
 
