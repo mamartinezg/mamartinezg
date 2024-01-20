@@ -1,6 +1,6 @@
 # Hola, soy María Alejandra 👋
 
-Bienvenido a mi rincón especial en GitHub. Este repositorio es ✨especial✨. Soy estadístico de profesión y me apasiona explorar el fascinante mundo de la **Estadística** y la Ciencia de Datos. Actualmente, formo parte del sector de la educación en la Universidad Nacional de Colombia, donde mi principal objetivo es contribuir al análisis y entendimiento de datos con el propósito de tomar decisiones informadas y respaldadas por evidencia..
+Bienvenido a mi rincón especial en GitHub. 📊 Estadístico de profesión y me apasiona explorar el fascinante mundo de la **Estadística** y la Ciencia de Datos. Actualmente, formo parte del sector de la educación en la Universidad Nacional de Colombia, donde mi principal objetivo es contribuir al análisis y entendimiento de datos con el propósito de tomar decisiones informadas y respaldadas por evidencia..
 
 ## Sobre mí
 
@@ -14,23 +14,15 @@ Bienvenido a mi rincón especial en GitHub. Este repositorio es ✨especial✨. 
 
 🛠️ En el sector industrial, mi objetivo es aplicar mis habilidades estadísticas para analizar datos operativos, identificar patrones de rendimiento y optimizar procesos. Creo que la estadística puede ser una aliada estratégica para la eficiencia y la innovación en la industria.
 
-🔭 Actualmente estoy trabajando en [proyecto o tema específico].
+🔭 Actualmente estoy trabajando en un estudio sobre el valor agregado de los estudiantes, el principal objetivo es evaluar cómo las características sociodemográficas y el desempeño en las pruebas **SABER 11** se relacionaban con el valor agregado de los estudiantes en términos de su rendimiento académico.
 
-🌱 Actualmente estoy aprendiendo [tecnología o habilidad en la que estás trabajando].
+🚀 Actualmente estoy aprendiendo y explorando a fondo la aplicación de modelos de machine learning 🤖 y programación matemática 📐.Desde modelos de regresión hasta redes neuronales, mi objetivo es entender cómo estos modelos pueden amplificar el poder predictivo de la estadística. Y explorar como la programación matemática formula y resuelve problemas de optimización y cómo integrar estos enfoques con modelos estadísticos para obtener soluciones más eficientes y efectivas.
 
-👯 Estoy buscando colaborar en [proyectos o iniciativas interesantes].
-
-🤔 Estoy buscando ayuda con [aspectos específicos en los que necesitas ayuda].
-
-💬 Pregúntame sobre [temas de interés o áreas de experiencia].
-
-📫 Cómo contactarme: [tu correo electrónico o redes sociales].
+📫 Cómo contactarme: ** [Correo Electrónico](mailto:mamartinezgue@unbosque.edu.co) | [Instagram](https://www.instagram.com/alejandramart_28/)
 
 ✨ En este espacio, compartiré proyectos, análisis y reflexiones relacionadas con la estadística y la ciencia de datos. Exploraremos el potencial de la Estadística en la era de la ciencia de datos y cómo puede impulsar descubrimientos significativos y soluciones efectivas.
 
-😄 Pronombres: [tus pronombres].
-
-⚡ Dato curioso: [comparte un dato curioso sobre ti].
+⚡ Más allá de mi vida profesional, encuentro un refugio en dos de mis pasiones: la lectura y el cine. Disfruto explorar narrativas visuales, Sumergirme en historias a través de la lectura.
 
 ## Estructura del Repositorio
 
