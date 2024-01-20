@@ -32,7 +32,7 @@ Bienvenido a mi rincón especial en GitHub. 📊 Estadístico de profesión y me
 - **/documentacion**: Contiene documentación adicional, explicaciones y análisis detallado.
 
 ### Enlaces Adicionales
-- 📚 [Lo que el viento se llevó (Libro)](https://www.goodreads.com/book/show/2493.Gone_with_the_Wind)
+- 📚 [Lo que el viento se llevó (Libro)](https://www.suneo.mx/literatura/subidas/Margaret%20Mitchell%20Lo%20que%20el%20Viento%20se%20Llev%C3%B3.pdf)
 - 🎥 [La vida es bella (Película)](https://www.imdb.com/title/tt0118799/)
 
 ## Requisitos del Entorno
